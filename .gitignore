@@ -1,0 +1,25 @@
+# Environments
+backend/.env
+backend/venv/
+backend/env/
+backend/ENV/
+backend/.venv/
+
+# Python
+backend/__pycache__/
+backend/*.py[cod]
+backend/*$py.class
+backend/*.so
+
+# Node / Frontend
+frontend/node_modules/
+frontend/dist/
+.DS_Store
+
+# Output documents
+backend/output/*.docx
+backend/output/*.pdf
+
+# IDEs
+.vscode/
+.idea/
